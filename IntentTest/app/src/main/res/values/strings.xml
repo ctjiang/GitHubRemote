@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntentTest</string>
+    <string name="Intent_Dial">Phone Call</string>
+    <string name="Intent_ViewMap">View a Map</string>
+    <string name="Intent_ViewWebPage">View a WebPage</string>
+    <string-array name="Intent_Name">
+        <item>Phone Call</item>
+        <item>View a Map</item>
+        <item>View a WebPage</item>
+        <item>Pick Contact</item>
+    </string-array>
+</resources>
